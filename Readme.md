@@ -11,3 +11,9 @@
 <p align="center">
   <img src="assets/day1.gif" />
 </p>
+
+## ✨ Day 2 - Animated loader
+
+<p align="center">
+  <img src="assets/day2.gif" />
+</p>
