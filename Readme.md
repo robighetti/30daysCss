@@ -17,3 +17,15 @@
 <p align="center">
   <img src="assets/day2.gif" />
 </p>
+
+## ✨ Day 3 - Text color change when entering another div
+
+<p align="center">
+  <img src="assets/day3.gif" />
+</p>
+
+## ✨ Day 4 - Button with effect
+
+<p align="center">
+  <img src="assets/day4.gif" />
+</p>
