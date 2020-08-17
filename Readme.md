@@ -29,3 +29,9 @@
 <p align="center">
   <img src="assets/day4.gif" />
 </p>
+
+## ✨ Day 5 - Pulse
+
+<p align="center">
+  <img src="assets/day5.gif" />
+</p>
