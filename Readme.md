@@ -41,3 +41,9 @@
 <p align="center">
   <img src="assets/day6.gif" />
 </p>
+
+## ✨ Day 7 - Animated loader
+
+<p align="center">
+  <img src="assets/day7.gif" />
+</p>
