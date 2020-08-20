@@ -35,3 +35,9 @@
 <p align="center">
   <img src="assets/day5.gif" />
 </p>
+
+## ✨ Day 6 - Lightning text effect
+
+<p align="center">
+  <img src="assets/day6.gif" />
+</p>
