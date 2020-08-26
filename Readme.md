@@ -47,3 +47,15 @@
 <p align="center">
   <img src="assets/day7.gif" />
 </p>
+
+## ✨ Day 8 - Heart beating
+
+<p align="center">
+  <img src="assets/day8.gif" />
+</p>
+
+## ✨ Day 9 - Newton's pendulum
+
+<p align="center">
+  <img src="assets/day9.gif" />
+</p>
